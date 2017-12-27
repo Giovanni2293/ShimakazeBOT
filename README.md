@@ -1,1 +1,1 @@
-# ShimakazeBOT
+# ShimakazeBOT v1
